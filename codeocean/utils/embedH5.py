@@ -1,3 +1,4 @@
+'''Copyright by the Massachusetts Institute of Technology.  All rights reserved.'''
 import argparse,pwd,os,numpy as np,h5py
 from os.path import splitext,exists,dirname,join,basename
 from os import makedirs

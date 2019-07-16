@@ -1,3 +1,4 @@
+'''Copyright by the Massachusetts Institute of Technology.  All rights reserved.'''
 import h5py
 from os.path import join,exists
 from keras.models import Sequential
