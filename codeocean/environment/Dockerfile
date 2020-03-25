@@ -1,3 +1,4 @@
+# Copyright by the Massachusetts Institute of Technology.  All rights reserved
 FROM registry.codeocean.com/codeocean/tensorflow:1.4.0-python2.7.12-cuda8.0.61-cudnn6.0.21-ubuntu16.04
 
 ARG DEBIAN_FRONTEND=noninteractive
