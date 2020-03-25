@@ -1,3 +1,4 @@
+# Copyright by the Massachusetts Institute of Technology.  All rights reserved
 mkdir ../results
 mkdir ../results/seq_gen
 mkdir log
